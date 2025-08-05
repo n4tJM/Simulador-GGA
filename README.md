@@ -1,4 +1,4 @@
-`# 🧬 GGA-IHS Simulator 
+# 🧬 GGA-IHS Simulator 
 *Algoritmo Genético de Agrupación con Estrategias Heurísticas Inteligentes*  
 *Versión 1.0 | 2024*  
 
